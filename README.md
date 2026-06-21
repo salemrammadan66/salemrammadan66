@@ -31,9 +31,18 @@ Graduation project focused on supporting people with disabilities through transp
 * Developed transportation-related features and API integrations
 * Applied Clean Architecture, BLoC/Cubit, and Dependency Injection
 
-### Social Mate
+Gatherly
 
-A social media application built with Flutter, featuring authentication, user profiles, posts, and social interactions.
+A social media application built with Flutter.
+
+Features:
+
+User Authentication
+User Profiles
+Posts & Interactions
+Likes & Comments
+Firebase Integration
+Responsive UI
 
 ## Contact
 
